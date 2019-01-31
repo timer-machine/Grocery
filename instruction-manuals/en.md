@@ -8,9 +8,9 @@ This article is trying its best to introduce how to use TimeR Machine.
 
 1. [Basic Concepts](#Basic-Concepts)
 1. [Timer Examples](#Timer-Examples)
-1. [UI Instruction](#UI-Instruction)
+1. [UI Instructions](#UI-Instructions)
 1. [Differences from CycleTimer](#Differences-from-CycleTimer)
-1. [Any trouble? Send a email](#Any-trouble?-Just-send-a-email)
+1. [Contact](#Contact)
 
 ## Basic Concepts
 
@@ -41,7 +41,7 @@ Some steps have special colors. The first step and the last step are:
 
 > Start Step and End Step: A timer may have loops and these two steps are the signals for the whole timer's start and end. Each of them will be executed only once at the start and the end of a timer.
 
-"Timer Start" and "Timer End" is the beginning and finishing of the timer. They have behaviors like Music, or we don't know when this timer starts or finishes.
+"Timer Start" and "Timer End" is the beginning and finishing of the timer. They have some behaviors, or we don't know when the timer starts or finishes.
 
 The next "Run" step has no behavior and simply counts down silently. After it, that's a "notifier":
 
@@ -73,15 +73,15 @@ The next notifier indicates a "Group" is coming:
 
 ![2](en/complex-timer2.webp)
 
-↓ After the group, we add a step with halt behavior(Stay at this step until you move on manually) which is perfect for the situation where the time is indeterminate. After the long run, we'll go to the next step manually.
+↓ The next notifier tells us that the group is done and long run is about to start. After it, we add a step with halt behavior(Stay at this step until you move on manually) which is perfect for the situation where the time is indeterminate. After the long run, we'll go to the next step manually.
 
 > Halt will make a timer stop counting down and ignore a step's duration.
 
-The end step also acts as a step for resting.
+We'll have some rest at the end step.
 
 ![3](en/complex-timer3.webp)
 
-## UI Instruction
+## UI Instructions
 
 - Add a step
 
@@ -112,6 +112,6 @@ The end step also acts as a step for resting.
 
 2. In CycleTimer, reminders between steps are global and automatically added. You don't need to add them manually. In TimeR Machine, you must add a step with behaviors or you'll never get reminded.
 
-## Any trouble? Send an email
+## Contact
 
-[Help & Feedback] - Scroll to the bottom - [Feedback] or [Here](mailto:ligrsidfd@gmail.com). You'll get replied within 24 hours.
+In the app, click menu -> [Help & Feedback] -> Scroll to the bottom -> [Feedback] or [Here](mailto:ligrsidfd@gmail.com). You'll get replied within 24 hours.
