@@ -41,7 +41,7 @@ Some steps have special colors. The first step and the last step are:
 
 > Start Step and End Step: A timer may have loops and these two steps are the signals for the whole timer's start and end. Each of them will be executed only once at the start and the end of a timer.
 
-"Timer Start" and "Timer End" is the beginning and finishing of the timer. They have some behaviors, or we don't know when the timer starts or finishes.
+"Timer Start" and "Timer End" is the beginning and finishing of the timer. They have some behaviors, or we'll never know when the timer starts or finishes.
 
 The next "Run" step has no behavior and simply counts down silently. After it, that's a "notifier":
 
