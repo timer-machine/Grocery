@@ -59,27 +59,27 @@ In this plan, we warm up, run and walk 13 times, long run and rest.
 
 ![Complex One](en/complex-timer.webp)
 
-Notice the timer loop is 1. Because our plan is too complicated to separate into loops. We need precise control.
+↓ Notice the timer loop is 1. Because our plan is too complicated to separate into loops. We need precise control.
 
 ![1](en/complex-timer1.webp)
 
-First, start step and warm up step use voice and beep behaviors. But, there is no notifier after them. Actually, some behaviors only run once at the start of a step, so we can use them to remind us that a step starts (of course you can add notifiers alternatively).
+↑ First, start step and warm up step use voice and beep behaviors. But, there is no notifier after them. Actually, some behaviors only run once at the start of a step, so we can use them to remind us that a step starts (of course you can add notifiers alternatively).
 
 The next notifier indicates a "Group" is coming:
 
 > Group：kind of a sub-timer. It has its own name and loop and can contain steps.
 
+↓ Here we put "Run" and "Walk" steps into the group and set loop to 13.
+
 ![2](en/complex-timer2.webp)
 
-Here we put "Run" and "Walk" steps into the group and set loop to 13.
-
-![3](en/complex-timer3.webp)
-
-After the group, we add a step with halt behavior(Stay at this step until you move on manually) which is perfect for the situation where the time is indeterminate. After the long run, we'll go to the next step manually.
+↓ After the group, we add a step with halt behavior(Stay at this step until you move on manually) which is perfect for the situation where the time is indeterminate. After the long run, we'll go to the next step manually.
 
 > Halt will make a timer stop counting down and ignore a step's duration.
 
 The end step also acts as a step for resting.
+
+![3](en/complex-timer3.webp)
 
 ## UI Instruction
 
