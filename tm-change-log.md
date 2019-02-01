@@ -1,3 +1,20 @@
+## 2019-2-1 2.0.0
+
+- Added: New step type "Group" which has its own name and loop
+- Added: A instruction manual in the Help & Feedback(click here to check it)
+- Improvement: Step behavior edit layout becomes from selective to additive, which replaces behavior expanding and collapsing
+- Improvement: Music will be stopped when the headset is unplugged
+- Improvement: Screen brightness will be applied to the timer list screen
+- Improvement: Better timer name and loop input layout
+- Improvement: Better user panel layout
+- Improvement: A running timer won't be reset any more when its shortcut is clicked
+- Improvement: No more timer steps details are shown in the timer list screen, which saves some phone memory
+- Fixed: A bug where notifier changes won't be saved sometimes
+- Fixed: A crash that causes a scheduler cannot be started
+- Changed: When a file exported by an old version is imported, app theme may not be applied correctly. Please set app theme manually.
+- Changed: Dragging and dropping to sort steps is removed because it's hard to implement. You can still add and remove steps to achieve sort effect.
+- Changed: App settings detailed items export is removed because it's too redundant.
+
 ## 2018-12-29 1.1.1
 
 - New: supports the new Material Design
