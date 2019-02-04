@@ -1,3 +1,7 @@
+## 2019-2-4 2.0.1
+
+- Fixed: two crashes related to navigation
+
 ## 2019-2-1 2.0.0
 
 - Added: New step type "Group" which has its own name and loop
