@@ -1,3 +1,11 @@
+## 2019-2-?? 2.1.0
+
+- Added: Now you can quickly jump to a step by double tapping a step number.
+- Added: Now you can quickly edit a step by long clicking a step number.
+- Added: Now you can customize timer actions in the [Settings] - [Customize Screen].
+- Improvement: Better UI(The developer has tried his best although…)
+- Changed: Notification toggle in the timer screen has been removed but you can still edit it in the timer edit screen.
+
 ## 2019-2-4 2.0.1
 
 - Fixed: two crashes related to navigation
