@@ -15,7 +15,7 @@ It's designed to play short reminded sound and not to handle too many music play
 
 After enabling [Advanced Time Tweak] in the app settings, in the timer screen, you can tweak time by just pressing the tweak button, moving the finger to a time and releasing the finger. This is quicker than tapping twice.
 
-![Tweak time quickly](../images/double-tap-to-jump.webp)
+![Tweak time quickly](../images/tweak-time-quickly.webp)
 
 ## Double tap step number to jump to it
 

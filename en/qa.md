@@ -21,7 +21,7 @@
 
 ## Turn off all notifications
 
-No, but you can
+No, you can't. But you can
 
 1. In the editing timer screen, click the gear icon on the left and turn off [Show Timing Notification]. This way, at runtime, there will only be one notification that shows the overview information.
 
