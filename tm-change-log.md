@@ -1,4 +1,13 @@
-## 2019-2-?? 2.1.0
+## 2019-3-23 3.0.0
+
+- New: "Always Fullscreen" option for the screen behavior.
+- Improvement: Better UI.
+- Improvement: New time pick widget whose max time is 99h 99m 99s.
+- Fixed: Broken timer screen after screen rotation.
+- Fixed: Floating window won\'t work after the app is closed.
+- Changed: The dialog for editing a scheduler becomes a screen.
+
+## 2019-2-11 2.1.0
 
 - Added: Now you can quickly jump to a step by double tapping a step number.
 - Added: Now you can quickly edit a step by long clicking a step number.
