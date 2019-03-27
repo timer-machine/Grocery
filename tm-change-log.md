@@ -1,3 +1,9 @@
+## 2019-3-27 3.0.1
+
+- New: An setting option for closing the floating window and PIP automatically.
+- Improved: Better time picker view in the landscape mode.
+- Fixed: Steps are doubled when the screen is turned on and off in the timer edit screen.
+
 ## 2019-3-23 3.0.0
 
 - New: "Always Fullscreen" option for the screen behavior.
