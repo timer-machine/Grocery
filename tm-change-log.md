@@ -1,3 +1,12 @@
+## 2019-4-5 3.1.0
+
+- Added: Now timer record can be exported.
+- Added: [Pro] A timer option to allow a timer to trigger another timer when it finishes.
+- Added: [Pro] Tasker support (You can find this app in the Tasker\'s plugin option)
+- Improved: Less disk space that a timer takes.
+- Fixed: A bug that new version info cannot be fetched.
+- Changed: "Import method" is moved to "Content Selection". Check "Wipe out…" to replace old data and uncheck it to append data.
+
 ## 2019-3-27 3.0.1
 
 - New: An setting option for closing the floating window and PIP automatically.
