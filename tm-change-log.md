@@ -1,3 +1,11 @@
+## 2019-4-15 3.2.0
+
+- Added: Halt behavior shows current step's elapsed time like a stopwatch.
+- Added: Voice behavior has an option to set a specific speech content and can read current loop.
+- Added: Beep behavior has an option to pause other background sound (on by default).
+- Fixed: Stopping all timers sometimes crashes the app.
+- <b>Changed: Previously created timer which uses beep behavior may not pause other background sound unless you toggle those beep behaviors' option on and off once again manually.</b> Developer apologizes to you for this bug.
+
 ## 2019-4-5 3.1.0
 
 - Added: Now timer record can be exported.
