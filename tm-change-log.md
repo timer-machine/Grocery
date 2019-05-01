@@ -1,3 +1,15 @@
+## 2019-5-1 3.3.0
+
+- Added: From now on, timer records will include start time.
+- Added: A setting item for if pause all timers when the phone is on a call.
+- Added: Fling animation when you move the floating window.
+- Improved: Better floating window view.
+- Improved: Smaller APK, (probably) smoother experience.
+- Fixed: Timer overall info notification sometimes displays a wrong state.
+- Fixed: The stop button in the screen window sometimes overlaps with the navigation bar
+- Fixed: Still trying to fix the bug where stopping all timers sometimes crashes the app. If you encounter any bugs when controlling many timers, please tell me through feedback.
+- Changed: Beep\'s \"Pause Other Sound\" is renamed to \"Respect Other Sound\" which means if the beep should pause others when it starts and stop itself when others start.
+
 ## 2019-4-15 3.2.0
 
 - Added: Halt behavior shows current step's elapsed time like a stopwatch.
