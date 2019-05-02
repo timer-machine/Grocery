@@ -23,4 +23,4 @@ After enabling [Advanced Time Tweak] in the app settings, in the timer screen, y
 
 ## Long click step number to edit it
 
-It's similar to the previous tip, just press and hold the step number to open the dialog box for editing step.
+It's similar to the previous tip, just press and hold the step number to open a dialog box for editing step.
