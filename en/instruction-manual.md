@@ -35,7 +35,7 @@ There are two ways to add steps:
 
     ![Add a Step 1](instruction-manual/add-step1.webp)
 
-1. Click the plus sign in the lower left corner of the step and select "Notifier Step" to add a new step after this step.
+1. Click the plus sign in the lower left corner of the step and select "Notifier" to add a new step after this step.
 
     ![Add a Step 2](instruction-manual/add-step2.webp)
 
@@ -59,7 +59,7 @@ Delete a Step:
 
 ![Delete a Step](instruction-manual/remove-step.webp)
 
-Long press the step/behavior to view its explanation
+Long press the step/behavior to view its explanation:
 
 ![Step Explanation](instruction-manual/tooltip1.webp)
 ![Behavior Explanation](instruction-manual/tooltip2.webp)
@@ -74,7 +74,7 @@ At the bottom of the step panel, you can choose to add them.
 
 ## A Simple Example
 
-By regular steps to time, notifier steps to remind you, now you can create a simple timer task.
+By regular steps to time, notifier steps to remind, now you can create a simple timer task.
 
 The first green step in the picture below is the start step, and the last red step is the end step.
 
