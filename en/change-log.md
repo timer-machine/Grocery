@@ -1,3 +1,12 @@
+# Change Log
+
+## 2018-5-7 3.3.1
+
+- Improved: Smaller exported file size
+- Fixed: Occasionally wrong main screen after toggling night theme or app theme
+- Fixed: A crash while importing the data that is exported with a newer version of this app.
+- Fixed: A crash while adding behavior but the behavior name is lost somehow
+
 ## 2019-5-1 3.3.0
 
 - Added: From now on, timer records will include start time.
