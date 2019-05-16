@@ -1,5 +1,13 @@
 # Change Log
 
+## 2018-5-16 3.3.2
+
+- Improved: Better dialog view for entering beep count
+- Fixed: The beeps are triggered multiple times when there are many timers running
+- Fixed: Stored notifier sometimes is missed
+- Fixed: A crash when the beep behavior sometimes cannot initialize itself
+- Fixed: A crash because wake locks sometimes are wrongly counted
+
 ## 2018-5-7 3.3.1
 
 - Improved: Smaller exported file size
