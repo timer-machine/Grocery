@@ -1,5 +1,17 @@
 # Change Log
 
+## 2018-5-25 3.4.0
+
+- Added: Vibration behavior has two more patterns: short and long.
+- Added: When "Show Remaining Time In the Notification" is enabled, a progress bar will be shown in the notification.
+- Added: [Experimental] New behavior: Half. It reads "Half of the time" when the step is over halfway.
+- Added: [Experimental] New behavior: Count. It counts down the last several seconds of a step.
+- Improved: The timer"ll be stopped when you update a step by long pressing its step number.
+- Improved: Beep count will be shown in its chip.
+- Fixed: Duplicating a timer sometimes crashes the app.
+- Changed: The remaining time is more accurate. In previous versions, a 5-second step shows "4, 3, 2, 1, 0" and each of them lasts one second. From now on, it shows "5, 4, 3, 2, 1".
+- \* You can enable experimental features in the [Settings] - [Labs].
+
 ## 2018-5-16 3.3.2
 
 - Improved: Better dialog view for entering beep count
