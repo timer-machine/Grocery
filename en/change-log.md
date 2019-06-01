@@ -1,5 +1,15 @@
 # Change Log
 
+## 2018-6-1 3.5.0
+
+- Added: [Experimental] New behavior: Notification. It shows another notification at the start of a step.
+- Added: An "Never show again" option in the website warning dialog.
+- Improved: Better swipe animation.
+- Improved: More specific notification categories.
+- Fixed: A rare crash when a wrong timer is deleted.
+- Fixed: A crash when you open a website but there is no default browser.
+- \* You can enable experimental features in the [Settings] - [Labs].
+
 ## 2018-5-25 3.4.0
 
 - Added: Vibration behavior has two more patterns: short and long.
