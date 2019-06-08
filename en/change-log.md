@@ -1,5 +1,12 @@
 # Change Log
 
+## 2018-6-8 3.5.1
+
+- Improved: Deleted timers and schedulers are batched together.
+- Improved: TextToSpeech calls are batched together when possible, saving your battery!
+- Improved: Voice content dialog can show multiple lines.
+- Fixed: A crash when you try to create a shortcut for a missing timer.
+
 ## 2018-6-1 3.5.0
 
 - Added: [Experimental] New behavior: Notification. It shows another notification at the start of a step.
