@@ -1,13 +1,21 @@
 # Change Log
 
-## 2018-6-8 3.5.1
+## 2019-6-14 3.6.0
+
+- Added: [Experimental] Timer Panels! After enabling in the labs, in the [Settings] - [Customize Screen], you can add panels for elapsed time, remaining time, end time and more.
+- Added: Now you can apply timer templates in the timer edit screen.
+- Improved: Step name can show multiple lines of text.
+- Improved: Timing bar shows above the step list.
+- \* You can enable experimental features in the [Settings] - [Labs].
+
+## 2019-6-8 3.5.1
 
 - Improved: Deleted timers and schedulers are batched together.
 - Improved: TextToSpeech calls are batched together when possible, saving your battery!
 - Improved: Voice content dialog can show multiple lines.
 - Fixed: A crash when you try to create a shortcut for a missing timer.
 
-## 2018-6-1 3.5.0
+## 2019-6-1 3.5.0
 
 - Added: [Experimental] New behavior: Notification. It shows another notification at the start of a step.
 - Added: An "Never show again" option in the website warning dialog.
@@ -17,7 +25,7 @@
 - Fixed: A crash when you open a website but there is no default browser.
 - \* You can enable experimental features in the [Settings] - [Labs].
 
-## 2018-5-25 3.4.0
+## 2019-5-25 3.4.0
 
 - Added: Vibration behavior has two more patterns: short and long.
 - Added: When "Show Remaining Time In the Notification" is enabled, a progress bar will be shown in the notification.
@@ -29,7 +37,7 @@
 - Changed: The remaining time is more accurate. In previous versions, a 5-second step shows "4, 3, 2, 1, 0" and each of them lasts one second. From now on, it shows "5, 4, 3, 2, 1".
 - \* You can enable experimental features in the [Settings] - [Labs].
 
-## 2018-5-16 3.3.2
+## 2019-5-16 3.3.2
 
 - Improved: Better dialog view for entering beep count
 - Fixed: The beeps are triggered multiple times when there are many timers running
@@ -37,7 +45,7 @@
 - Fixed: A crash when the beep behavior sometimes cannot initialize itself
 - Fixed: A crash because wake locks sometimes are wrongly counted
 
-## 2018-5-7 3.3.1
+## 2019-5-7 3.3.1
 
 - Improved: Smaller exported file size
 - Fixed: Occasionally wrong main screen after toggling night theme or app theme
