@@ -1,5 +1,13 @@
 # Change Log
 
+## 2019-6-22 3.7.0
+
+- Added: A second tweaking time main button.
+- Added: In-app tutorials.
+- Improved: Creating timer button is centered and stops blocking timers.
+- Improved: When creating a new scheduler, time picker will show the current time by default.
+- Improved: Now you can also edit tweak time settings in the Customize Screen.
+
 ## 2019-6-14 3.6.0
 
 - Added: [Experimental] Timer Panels! After enabling in the labs, in the [Settings] - [Customize Screen], you can add panels for elapsed time, remaining time, end time and more.
