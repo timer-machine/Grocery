@@ -1,5 +1,16 @@
 # Change Log
 
+## 2019-6-30 3.7.1
+
+- Added: Half behavior has two more reminders: music and vibration.
+- Improved: Text cursor is changed to white to separate it from the background color.
+- Improved: Music picker will immediately show the selected item without scrolling.
+- Improved: Scrollable time picker's max time is 99h 59m 59s and the hour picker shows time in both directions.
+- Improved: More straightforward lock and unlock icons.
+- Fixed: After deleting timers or schedulers and leaving the app, deleted content isn't deleted.
+- Fixed: Schedulers' enabled state is wrong while scrolling.
+- Fixed: Music picker sometimes crashes the app during screen rotation.
+
 ## 2019-6-22 3.7.0
 
 - Added: A second tweaking time main button.

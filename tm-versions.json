@@ -2,13 +2,13 @@
   {
     "name": "TimerMachineG",
     "package_name": "io.github.deweyreed.timer.google",
-    "newest_version_code": 3070000,
-    "newest_version_name": "3.7.0"
+    "newest_version_code": 3070100,
+    "newest_version_name": "3.7.1"
   },
   {
     "name": "TimerMachineO",
     "package_name": "io.github.deweyreed.timer.other",
-    "newest_version_code": 3070000,
-    "newest_version_name": "3.7.0"
+    "newest_version_code": 3070100,
+    "newest_version_name": "3.7.1"
   }
 ]
