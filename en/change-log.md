@@ -1,5 +1,13 @@
 # Change Log
 
+## 2019-7-6 3.8.0
+
+- <b>This app now is totally free. No more in-app purchases. Thank you for using this app and supporting it!</b>
+- Added: New methods to import and export app data without permissions. Old methods are still kept.
+- Improved: Much smaller APK size.
+- Fixed: Imported and exported schedulers are disabled now.
+- Fixed: Text-to-speech checker won't work well sometimes.
+
 ## 2019-6-30 3.7.1
 
 - Added: Half behavior has two more reminders: music and vibration.
