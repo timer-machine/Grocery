@@ -7,6 +7,7 @@
 - [关闭计时通知](#关闭计时通知)
 - [与循环计时器有何不同](#与循环计时器有何不同)
 - [运行记录不被保存](#运行记录不被保存])
+- [iOS版](#iOS版)
 
 ## 应用的权限使用
 
@@ -41,3 +42,24 @@
 ## 运行记录不被保存
 
 运行记录被保存的条件是：计时器的最后一个步骤自然结束。那么只需要添加一个结束步骤，让它自己计时结束，就会被记录。
+
+## iOS版
+
+计时机器没有对应的iOS应用，另外出于缺乏时间、能力和设备的原因，现在也没有计划开发iOS版本。
+
+但是这里有一些替代品：
+
+- [Seconds(这个也有Android版)](https://apps.apple.com/cn/app/seconds-%E9%AB%98%E5%BC%BA%E5%BA%A6%E9%97%B4%E6%AD%87%E8%AE%AD%E7%BB%83%E5%AE%9A%E6%97%B6%E5%99%A8/id475816966)
+- [Amelia Timer](https://apps.apple.com/cn/app/amelia-timer/id1438196267)
+- [PushPress Timer Free](https://apps.apple.com/cn/app/pushpress-timer-free/id826016623)
+
+另外这里有一些关键词，帮你更好的搜索：
+
+- Interval Timer
+- HIIT Timer
+- Tabata Timer
+- Repeating Timer
+- Custom Countdown Timer
+- 间隔/间歇训练计时器
+- 健身计时器
+- 自定义计时器

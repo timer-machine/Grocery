@@ -7,6 +7,7 @@
 - [Turn off all notifications](#Turn-off-all-notifications)
 - [Differences from CycleTimer](#Differences-from-CycleTimer)
 - [Run record is not recorded](#Run-record-is-not-recorded)
+- [iOS verison](#iOS-version)
 
 ## App Permissions
 
@@ -39,3 +40,15 @@ No, you can't. But you can
 ## Run record is not recorded
 
 When a timer finishes naturally, it'll be recorded. So you can add an end step and let it finish naturally. Then the record should be recorded.
+
+## iOS version
+
+No iOS version. Because of the lack of time, skills and equipment, there is no plan for developing an iOS version currently.
+
+Here're some keywords to help you search alternatives:
+
+- Interval Timer
+- HIIT Timer
+- Tabata Timer
+- Repeating Timer
+- Custom Countdown Timer
