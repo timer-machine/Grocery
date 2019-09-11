@@ -1,6 +1,8 @@
 # TimeR Machine Instruction Manual
 
-This article tries its best to introduce how to use TimeR Machine.
+**This article has been deprecated. A better instruction manual has been integrated into the app from version 3.8.0. Check it by installing it or go to app's [Help & Feedback] - [Instrcution Manual].**
+
+~~This article tries its best to introduce how to use TimeR Machine.~~
 
 ## Table of Contents
 
