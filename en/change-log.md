@@ -1,5 +1,21 @@
 # Change Log
 
+## 2019-11-2 4.0.0
+
+- Added: Android Q support.
+- Added: More versatile dark theme settings.
+- Added: Count and Notification behaviors and Time Panels have graduated from labs!
+- Added: When the timer discard dialog is shown, a save button is added.
+- Added: When adding behaviors popup is shown, long clicking behavior to see its explanation.
+- Improved: Bigger text size for the time picker.
+- Improved: Better layout for the tweak-time dialog.
+- Improved: Adding behaviors popup has margins.
+- Improved: PIP doesn't require turning off the dark theme anymore.
+- Fixed: Some previously created backup files cannot be imported.
+- Fixed: Crashes when external intents fail.
+- Fixed: Crashes related to timer deletion.
+- Changed: Deprecated ways to export and import app data are removed. You should use the new ways which don't require permission.
+
 ## 2019-7-6 3.8.0
 
 - <b>This app now is totally free. No more in-app purchases. Thank you for using this app and supporting it!</b>
@@ -268,4 +284,4 @@
 
 ## Older
 
-Too lazy to copy and paste them...
+They're eaten by me.
