@@ -9,6 +9,7 @@
 - [运行记录不被保存](#运行记录不被保存])
 - [iOS版](#iOS版)
 - [Google Play APK](#Google-Play-APK)
+- [本应用为什么免费](#本应用为什么免费)
 
 ## 应用的权限使用
 
@@ -70,3 +71,7 @@
 应用的Google Play发行使用了[App Bundle](https://developer.android.com/platform/technology/app-bundle)，会使用多个APK来精简安装包大小，它更安全、更方便、可以得到最及时的更新。
 
 如果你从第三方直接下载一个本应用的APK来安装，会导致崩溃或无法使用。因此当Google Play对你来说不可用时，可以[在这里下载完整版的APK](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx)。
+
+## 本应用为什么免费
+
+因为现阶段用户量太少，相比之下增加付费功能的的成本太高，所以现在应用免费。在未来积累了一定用户量后，会考虑增加不影响现有功能的付费服务嗒。

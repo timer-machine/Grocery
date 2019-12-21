@@ -9,6 +9,7 @@
 - [Run record is not recorded](#Run-record-is-not-recorded)
 - [iOS verison](#iOS-version)
 - [Google Play APK](#Google-Play-APK)
+- [Why is this app free?](#Why-is-this-app-free)
 
 ## App Permissions
 
@@ -59,3 +60,7 @@ Here're some keywords to help you search alternatives:
 The app’s Google Play distribution uses [App Bundle](https://developer.android.com/platform/technology/app-bundle), which uses multiple APKs to reduce the APK size. It's safer, more convenient, and you can get the most timely updates.
 
 If you download one APK of this app directly from a third party to install it, the app will crash or become unusable. So when Google Play is not available to you, you can [download the full APK here](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx).
+
+## Why is this app free
+
+Because there aren't enough users using this app and adding paid features costs more. After accumulating enough users, I'll consider adding some paid services which don't affect the app's current features.
