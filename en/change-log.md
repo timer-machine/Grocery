@@ -1,5 +1,17 @@
 # Change Log
 
+## 2020-1-22 4.1.0
+
+- Added: Support for reordering steps by long clicking them.
+- Added: Settings for floating window transparency and size.
+- Added: A confirmation dialog when you discard your edit of a scheduler.
+- Added: Dark theme support for the in-app browser.
+- Improved: Swiping to delete timers or steps becomes much harder to avoid mistaken deletion.
+- Improved: The floating window is centered on the screen.
+- Fixed: Automatically switching the dark theme won't work sometimes.
+- Fixed: The app crashes on entering the timer edit screen on some devices.
+- Fixed: Popup menu can't be dismissed by clicking outside on the Lollipop.
+
 ## 2019-11-2 4.0.0
 
 - Added: Android Q support.
