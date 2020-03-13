@@ -57,9 +57,10 @@ Here're some keywords to help you search alternatives:
 
 ## Google Play APK
 
-The app’s Google Play distribution uses [App Bundle](https://developer.android.com/platform/technology/app-bundle), which uses multiple APKs to reduce the APK size. It's safer, more convenient, and you can get the most timely updates.
+If you download an APK of this app directly from a third party to install it, the app may crash or become unusable. So when you can't or don't want to use Google Play, you can:
 
-If you download one APK of this app directly from a third party to install it, the app will crash or become unusable. So when Google Play is not available to you, you can [download the full APK here](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx).
+- [[Recommended] Install the app from APK Pure(You need to install APK Pure first)](https://apkpure.com/timer-machine-run-walk-interval-timer/io.github.deweyreed.timer.google)
+- [Download the full APK here and install manually](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx).
 
 ## Why is this app free
 

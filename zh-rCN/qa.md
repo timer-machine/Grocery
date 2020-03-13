@@ -68,9 +68,10 @@
 
 ## Google Play APK
 
-应用的Google Play发行使用了[App Bundle](https://developer.android.com/platform/technology/app-bundle)，会使用多个APK来精简安装包大小，它更安全、更方便、可以得到最及时的更新。
+如果你从第三方直接下载一个本应用的APK来安装，可能会导致崩溃或无法使用。因此当你不可用或不想用Google Play时，你可以
 
-如果你从第三方直接下载一个本应用的APK来安装，会导致崩溃或无法使用。因此当Google Play对你来说不可用时，可以[在这里下载完整版的APK](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx)。
+- [[推荐]在APK Pure下载应用（需要先安装APK Pure）](https://apkpure.com/timer-machine-run-walk-interval-timer/io.github.deweyreed.timer.google)
+- [在这里下载完整版APK手动安装](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx)
 
 ## 本应用为什么免费
 
