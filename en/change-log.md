@@ -1,5 +1,19 @@
 # Change Log
 
+## 2020-4-17 4.2.0
+
+- Added: A setting item for the audio focus action.
+- Added: New audio type: Notification.
+- Improved: After a timer ends, if it has the next timer, load it automatically.
+- Improved: Dynamic theme on different widgets.
+- Improved: More conspicuous elevation animation when moving a step.
+- Improved: When moving untouchable steps, error messages show.
+- Fixed: Sometimes export and import locations can't be memorized.
+- Fixed: Beep won't work on some devices.
+- Fixed: All paused timers are resumed after a phone call.
+- Fixed: App blinks during automatically switching dark theme.
+- Changed: Now you can't select alpha when picking custom colors.
+
 ## 2020-1-22 4.1.0
 
 - Added: Support for reordering steps by long clicking them.
