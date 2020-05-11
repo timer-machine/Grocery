@@ -59,7 +59,7 @@ Here're some keywords to help you search alternatives:
 
 If you download an APK of this app directly from a third party to install it, the app may crash or become unusable. So when you can't or don't want to use Google Play, you can:
 
-- [[Recommended] Install the app from APK Pure(You need to install APK Pure first)](https://apkpure.com/timer-machine-run-walk-interval-timer/io.github.deweyreed.timer.google)
+- [Install the app from APK Pure(You need to install APK Pure first)](https://apkpure.com/timer-machine-run-walk-interval-timer/io.github.deweyreed.timer.google)
 - [Download the full APK here and install manually](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx).
 
 ## Why is this app free

@@ -70,7 +70,7 @@
 
 如果你从第三方直接下载一个本应用的APK来安装，可能会导致崩溃或无法使用。因此当你不可用或不想用Google Play时，你可以
 
-- [[推荐]在APK Pure下载应用（需要先安装APK Pure）](https://apkpure.com/timer-machine-run-walk-interval-timer/io.github.deweyreed.timer.google)
+- [在APK Pure下载应用（需要先安装APK Pure）](https://apkpure.com/timer-machine-run-walk-interval-timer/io.github.deweyreed.timer.google)
 - [在这里下载完整版APK手动安装](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx)
 
 ## 本应用为什么免费

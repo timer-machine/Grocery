@@ -1,5 +1,20 @@
 # Change Log
 
+## 2020-5-11 4.3.0
+
+- Added: A setting item for showing the total time of the timer and groups in the edit screen.
+- Improved: Group steps are wrapped into the group.
+- Improved: Time panels have more straightforward icons and colors.
+- Improved: Bigger click area for double-tap to jump to a step or long-click to edit a step.
+- Improved: More easy-to-understand instruction manual.
+- Fixed: Dialogs aren't shown in full size on small devices.
+- Fixed: Auto dark won't work under certain circumstances.
+- Fixed: Picture-in-picture and the floating window sometimes cause a crash.
+- Fixed: Deleting steps sometimes causes a crash.
+- Fixed: Long-click on entries of a popup menu on Android O causes a crash.
+- Fixed: Group steps sometimes are wrongly shown and cause a crash on saving.
+- Changed: "Night, Day Theme" is renamed to "Dark, Light Theme."
+
 ## 2020-4-17 4.2.0
 
 - Added: A setting item for the audio focus action.
