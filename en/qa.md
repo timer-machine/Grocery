@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [App Permissions](#App-Permissions)
-- [Screen behavior won't work](#Screen-behavior-wont-work)
 - [Turn off all notifications](#Turn-off-all-notifications)
 - [Differences from CycleTimer](#Differences-from-CycleTimer)
 - [Run record is not recorded](#Run-record-is-not-recorded)
@@ -20,10 +19,6 @@
 - Read phone status and identity (**Only on Android Lollipop: 5.0、5.1. For other system versions, it's not used and invisible**): for pausing all timers when there is an incoming phone call.
 - Control vibration: for reminding by vibrating
 - Install shortcuts: for creating timer shortcuts and starting timers with one click.
-
-## Screen behavior won't work
-
-Screen uses the system [Text-to-sppech] function. Please configure [Test Text-to-speech] in this app\'s settings, then select [No] to enter system settings. Use proper engine and right language and download voice data if you need it to work offline.
 
 ## Turn off all notifications
 
