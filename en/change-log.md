@@ -1,5 +1,17 @@
 # Change Log
 
+## 2020-5-24 4.4.0
+
+- Added: Animation for switching between start and pause icons.
+- Added: A "$total_loop" variable for the Voice behavior to represent the current total loop.
+- Added: Support for setting every day of a week as the first day of the week.
+- Added: "Text-to-speech Configuration" in Help & Feedback, replacing "Test Text-to-speech" in the app settings.
+- Improved: Unified design among Backup, Settings, and Help & Feedback.
+- Improved: More detailed timer state info when the fullscreen notification.
+- Improved: Quicker animation when changing steps.
+- Fixed: A crash when dragging and moving steps.
+- Changed: "App Theme" is moved to "Settings," and "Toolbox" is renamed to "Backup & Restore."
+
 ## 2020-5-11 4.3.0
 
 - Added: A setting item for showing the total time of the timer and groups in the edit screen.
