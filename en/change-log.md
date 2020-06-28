@@ -1,5 +1,19 @@
 # Change Log
 
+## 2020-6-28 4.5.0
+
+- Added: More versatile timer running records display.
+- Added: New and polished icons in many places.
+- Added: A "+ 1:00" button in the fullscreen popup.
+- Added: [Experimental] New ringtone picker and a button for picking any ringtone file on the device.
+- Improved: "Halt" is renamed to the more meaningful "Stopwatch."
+- Improved: "Notification" behavior will show on smartwatches.
+- Improved: Unified timer picker in different places.
+- Fixed: Some typos.
+- Fixed: Auto dark theme doesn't work sometimes.
+- Fixed: A crash when you long-press a step to edit it.
+- Changed: To remind you from smartwatches, "Notification" behavior's sound has been turned on. If you don't need it, turn it off when editing the behavior.
+
 ## 2020-5-24 4.4.0
 
 - Added: Animation for switching between start and pause icons.
