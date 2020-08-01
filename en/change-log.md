@@ -1,5 +1,18 @@
 # Change Log
 
+## 2020-8-1 4.5.1
+
+- Improved: Renamed "Behavior" to the more intuitive "Reminder."
+- Improved: Renamed "Stopwatch" back to "Halt," since "Stopwatch" has no duration while "Halt" can have one. I apologize for the inconvenience and would like to thank M Lev for the feedback and patient explanation.
+- Improved: Polished the app tutorial.
+- Improved: "Beep" and "Halt" can work together.
+- Improved: For Android Oreo and later, the app will remember backup and restore file location.
+- Improved: The app will show an alert if the backup or restore file is empty.
+- Fixed: Auto dark theme doesn't work sometimes.
+- Fixed: Audio Focus Type doesn't get included when backup.
+- Fixed: Time Picker crashes on some Samsung devices.
+- Fixed: Some crashes related to the new ringtone picker.
+
 ## 2020-6-28 4.5.0
 
 - Added: More versatile timer running records display.
