@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 Dewey Reed built the TimeR Machine app as a Freemium app. This SERVICE is provided by Dewey Reed at no cost and is intended for use as is.
 
@@ -16,8 +16,9 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-* [Firebase Analytics](https://firebase.google.com/policies/analytics)
-* [App Center](https://aka.ms/appcenterprivacy)
+* [Google Play Services](https://www.google.com/policies/privacy/)
+* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* [App Center](https://privacy.microsoft.com/en-us/PrivacyStatement)
 
 ## Log Data
 
@@ -50,12 +51,14 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ## Children’s Privacy
 
-These Services do not address anyone under the age of 13\. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 ## Changes to This Privacy Policy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2020-08-02
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ligrsidfd@gmail.com.
