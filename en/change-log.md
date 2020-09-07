@@ -1,5 +1,12 @@
 # Change Log
 
+## 2020-9-7 4.6.0
+
+- Added: [Only for apps installed from Google Play Store] Cloud Backup as a subscription service. It's in the Backup & Restore.
+- Improved: Better Whitelist Guideline. You need to whitelist this app on third-party manufacturer devices.
+- Fixed: Dragged step's shadow is clipped.
+- Fixed: Multiple crashes of the new ringtone picker under test.
+
 ## 2020-8-1 4.5.1
 
 - Improved: Renamed "Behavior" to the more intuitive "Reminder."
@@ -98,7 +105,7 @@
 
 ## 2019-7-6 3.8.0
 
-- <b>This app now is totally free. No more in-app purchases. Thank you for using this app and supporting it!</b>
+- **This app now is totally free. No more in-app purchases. Thank you for using this app and supporting it!**
 - Added: New methods to import and export app data without permissions. Old methods are still kept.
 - Improved: Much smaller APK size.
 - Fixed: Imported and exported schedulers are disabled now.
@@ -193,7 +200,7 @@
 - Added: Voice behavior has an option to set a specific speech content and can read current loop.
 - Added: Beep behavior has an option to pause other background sound (on by default).
 - Fixed: Stopping all timers sometimes crashes the app.
-- <b>Changed: Previously created timer which uses beep behavior may not pause other background sound unless you toggle those beep behaviors' option on and off once again manually.</b> Developer apologizes to you for this bug.
+- **Changed: Previously created timer which uses beep behavior may not pause other background sound unless you toggle those beep behaviors' option on and off once again manually.** Developer apologizes to you for this bug.
 
 ## 2019-4-5 3.1.0
 
