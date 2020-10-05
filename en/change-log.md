@@ -1,5 +1,14 @@
 # Change Log
 
+## 2020-10-5 4.7.0
+
+- Added: A duplicate button when adding steps.
+- Added: More variables for the Voice reminder.
+- Added: A message notification when starting a timer from a shortcut.
+- Improved: When entering the records screen, switch to the previously viewed tab.
+- Fixed: Time picker crashes on some Samsung devices.
+- Fixed: A crash when trying to add a record of a deleted timer.
+
 ## 2020-9-7 4.6.0
 
 - Added: [Only for apps installed from Google Play Store] Cloud Backup as a subscription service. It's in the Backup & Restore.
