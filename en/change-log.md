@@ -1,5 +1,13 @@
 # Change Log
 
+## 2020-10-26 5.0.0
+
+- Added: Timer Set for categorizing timers.
+- Added: Several rules to sort timers.
+- Added: More menu options when long clicking a timer.
+- Improved: When deleting a timer, it goes to the trash instead of being deleted.
+- Fixed: A crash when saving a notifier fails.
+
 ## 2020-10-5 4.7.0
 
 - Added: A duplicate button when adding steps.
