@@ -1,5 +1,14 @@
 # Change Log
 
+## 2020-11-7 5.1.0
+
+- Added: An interactive tutorial.
+- Improved: Better Whitelist Guideline.
+- Improved: Timers in the trash are unable to start.
+- Improved: Timer shortcuts are disabled when the timer is deleted.
+- Fixed: Edited timers go into the default set sometimes.
+- Fixed: UI becomes unresponsive when the next timer to start is missing.
+
 ## 2020-10-26 5.0.0
 
 - Added: Timer Set for categorizing timers.
