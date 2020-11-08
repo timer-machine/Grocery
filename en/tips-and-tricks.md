@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Music behavior positioning](#Music-behavior-positioning)
-- [Tweak time quickly](#Tweak-time-quickly)
-- [Double tap step number to jump to it](#Double-tap-step-number-to-jump-to-it)
-- [Long click step number to edit it](#Long-click-step-number-to-edit-it)
+- [Music behavior positioning](#music-behavior-positioning)
+- [Tweak time quickly](#tweak-time-quickly)
+- [Double tap step number to jump to it](#double-tap-step-number-to-jump-to-it)
+- [Long click step number to edit it](#long-click-step-number-to-edit-it)
 
 ## Music behavior positioning
 

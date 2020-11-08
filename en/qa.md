@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [App Permissions](#App-Permissions)
-- [Turn off all notifications](#Turn-off-all-notifications)
-- [Differences from CycleTimer](#Differences-from-CycleTimer)
-- [Run record is not recorded](#Run-record-is-not-recorded)
-- [iOS verison](#iOS-version)
-- [Google Play APK](#Google-Play-APK)
-- [Why is this app free?](#Why-is-this-app-free)
+- [App Permissions](#app-permissions)
+- [Turn off all notifications](#turn-off-all-notifications)
+- [Differences from CycleTimer](#differences-from-cycleTimer)
+- [Run record is not recorded](#run-record-is-not-recorded)
+- [iOS verison](#ios-version)
+- [Google Play APK](#google-play-apk)
+- [Why is this app free?](#why-is-this-app-free)
 
 ## App Permissions
 
