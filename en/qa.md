@@ -5,10 +5,9 @@
 - [App Permissions](#app-permissions)
 - [Turn off all notifications](#turn-off-all-notifications)
 - [Differences from CycleTimer](#differences-from-cycleTimer)
-- [Run record is not recorded](#run-record-is-not-recorded)
+- [Run record is not saved](#run-record-is-not-saved)
 - [iOS verison](#ios-version)
 - [Google Play APK](#google-play-apk)
-- [Why is this app free?](#why-is-this-app-free)
 
 ## App Permissions
 
@@ -34,9 +33,14 @@ No, you can't. But you can
 
 2. In CycleTimer, reminders between steps are global and automatically added. You don't need to add them manually. In TimeR Machine, you must add a step with behaviors or you'll never get reminded.
 
-## Run record is not recorded
+## Run record is not saved
 
-When a timer finishes naturally, it'll be recorded. So you can add an end step and let it finish naturally. Then the record should be recorded.
+A record is saved in two cases.
+
+1. The last step of the timer finishes naturally.
+1. (Requires app version 5.2.0 or later) The user manually stops the timer at the last step.
+
+Therefore, wait for the timer to finish at the last step or (requires app version 5.2.0 and later) stop manually, and the record will be saved.
 
 ## iOS version
 
@@ -56,7 +60,3 @@ If you download an APK of this app directly from a third party to install it, th
 
 - [Install the app from APK Pure(You need to install APK Pure first)](https://apkpure.com/timer-machine-run-walk-interval-timer/io.github.deweyreed.timer.google)
 - [Download the full APK here and install manually](https://drive.google.com/open?id=1YHIdW77fuxmyQ7sFza1LEIqmhzBygEZx).
-
-## Why is this app free
-
-Because there aren't enough users using this app and adding paid features costs more. After accumulating enough users, I'll consider adding some paid services which don't affect the app's current features.

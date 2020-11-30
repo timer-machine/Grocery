@@ -1,5 +1,15 @@
 # Change Log
 
+## 2020-11-30 5.2.0
+
+- Added: Some beautiful app themes have been added to the subscription plan.
+- Added: A popup menu to pick Voice variables.
+- Added: Elapsed time and remaining time Voice variables that can calculate the value based on the group.
+- Improved: The app will also record when manually stopping the timer at the last step of the timer.
+- Improved: The fullscreen screen can contain more text.
+- Improved: When browsing secondary screens, the menu bar shows a back icon instead of a menu icon.
+- Fixed: The app generates corrupted data when exporting to an existing file.
+
 ## 2020-11-7 5.1.0
 
 - Added: An interactive tutorial.
