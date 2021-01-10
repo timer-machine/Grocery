@@ -1,5 +1,12 @@
 # Change Log
 
+## 2021-1-10 5.3.0
+
+- Added: Some time-related Voice variables
+- Improved: More straightforward writing
+- Improved: Displayed time has the same 12/24 hours format as the system settings
+- Improved: The error message of failed import includes the details
+
 ## 2020-11-30 5.2.0
 
 - Added: Some beautiful app themes have been added to the subscription plan.
