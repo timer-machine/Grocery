@@ -1,5 +1,16 @@
 # Change Log
 
+## 2021-3-4 5.4.1
+
+- Improved: Faster app startup speed
+
+## 2021-2-16 5.4.0
+
+- Added: Support for Android 11
+- Added: Timers grid view
+- Fixed: The wrong floating window position after screen rotation
+- Fixed: Clicking a shortcut of a deleted timer crashes the app
+
 ## 2021-1-10 5.3.0
 
 - Added: Some time-related Voice variables
