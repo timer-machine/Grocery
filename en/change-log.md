@@ -1,5 +1,14 @@
 # Change Log
 
+## 2021-3-22 5.5.0
+
+Added: Baked count sound as a subscription service
+Added: A cancel all button in the timer picker
+Added: A duplicate group button in the add step popup menu of the group end divider
+Added: (Testing)New voice variables. Thank M Lev for the advice!
+Improved: When there is only one timer running, show its name in the overview notification
+Fixed: A crash when switching tutorial pages
+
 ## 2021-3-4 5.4.1
 
 - Improved: Faster app startup speed
