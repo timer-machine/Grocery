@@ -1,0 +1,5 @@
+* [主页](/zh-rCN/)
+* [技巧与窍门](/zh-rCN/tips-and-tricks.md)
+* [配置文字转语音](/zh-rCN/configure-tts.md)
+* [一些常见的问题](/zh-rCN/qa.md)
+* [更新日志](/zh-rCN/change-log.md)
