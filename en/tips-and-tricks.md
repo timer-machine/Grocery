@@ -2,10 +2,15 @@
 
 ## Table of Contents
 
+- [Delete a step](#delete-a-step)
 - [Music behavior positioning](#music-behavior-positioning)
 - [Tweak time quickly](#tweak-time-quickly)
 - [Double tap step number to jump to it](#double-tap-step-number-to-jump-to-it)
 - [Long click step number to edit it](#long-click-step-number-to-edit-it)
+
+## Delete a step
+
+Press the step and swipe it to the left or the right.
 
 ## Music behavior positioning
 
