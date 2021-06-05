@@ -1,5 +1,11 @@
 # Change Log
 
+## 2021-6-5 5.6.0
+
+- Added: New voice variables and dialog is under testing. Thank Martin Levy very much for the feedback and help!
+- Added: Support for sharing the timer and importing from the clipboard in the edit screen
+- Improved: Records from day one will start from the first record
+
 ## 2021-3-22 5.5.0
 
 - Added: Baked count sound as a subscription service
