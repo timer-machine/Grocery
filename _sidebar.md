@@ -1,5 +1,0 @@
-* [Home](/)
-* [Tips and Tricks](/en/tips-and-tricks.md)
-* [Configure TTS](/en/configure-tts.md)
-* [Common Q & A](/en/qa.md)
-* [Changelog](/en/change-log.md)
