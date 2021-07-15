@@ -1,5 +1,15 @@
 # Change Log
 
+## 2021-7-15 5.7.0
+
+- Added: Long-press to share a timer in the timer list
+- Improved: Volume setting now opens the system volume settings panel
+- Improved: Better tutorial
+- Improved: Renovated about page
+- Improved: A better new voice dialog on the tablet
+- Improved: Editing content of new voice dialog in the landscape mode stops showing the full-screen editor
+- Fixed: The tutorial adds the sample timer multiple times after screen rotation
+
 ## 2021-6-5 5.6.0
 
 - Added: New voice variables and dialog is under testing. Thank Martin Levy very much for the feedback and help!
