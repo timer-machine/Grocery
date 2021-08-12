@@ -1,5 +1,16 @@
 # Change Log
 
+## 2021-8-12 5.8.0
+
+- Added: Vibration count
+- Added: Long press step time to edit it quickly
+- Improved: Faster restore list load speed
+- Improved: New voice variables and new ringtone picker finish testing and become stable
+- Improved: Editing a step pauses the timer instead of stopping it
+- Improved: Better tutorial
+- Improved: Some UI details
+- Fixed: Step position is lost after editing a step
+
 ## 2021-7-15 5.7.0
 
 - Added: Long-press to share a timer in the timer list
