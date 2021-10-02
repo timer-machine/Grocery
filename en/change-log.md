@@ -1,5 +1,17 @@
 # Change Log
 
+## 2021-10-2 6.0.0
+
+- Added: A new reminder: Flashlight
+- Added: A new setting: "Screen Brightness Application Timing"
+- Added: A new setting: "Media Style Notification"
+- Added: A tip for whitelisting the app when a timer is stopped abnormally
+- Improved: A Better music picker
+- Fixed: A rare crash when exporting app data
+- Fixed: The calendar doesn't show the last row of a month
+- Changed: In-app purchases are under maintenance, which doesn't affect existing purchasers.
+- Changed: The minimum supported Android version changes from 5 to 6
+
 ## 2021-8-12 5.8.0
 
 - Added: Vibration count
