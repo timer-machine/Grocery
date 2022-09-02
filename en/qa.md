@@ -11,13 +11,13 @@
 
 ## App Permissions
 
-- Read/Write SD card: for exporting and importing app data and picking custom ringtones.
-- Network/View WLAN connections: for collecting crash reports.
+- Foreground service, vibration, wake lock, ignore battery optimization, schedule alarms: for counting down time precisely and reminding on time.
 - Run at startup: for rescheduling schedulers to make sure they keep working.
-- Run foreground service/Prevent phone from sleeping：for counting down time precisely and reminding on time.
-- Read phone status and identity (**Only on Android Lollipop: 5.0、5.1. For other system versions, it's not used and invisible**): for pausing all timers when there is an incoming phone call.
-- Control vibration: for reminding by vibrating
-- Install shortcuts: for creating timer shortcuts and starting timers with one click.
+- Read files and media: for exporting and importing app data and picking custom ringtones.
+- Read phone status and identity: **only for** pausing all timers when there is an incoming phone call.
+- Network: for providing online services and collecting crash reports.
+- Install shortcuts: for creating timer shortcuts that start timers with one click.
+- Display over other apps: for showing floating timing window.
 
 ## Turn off all notifications
 
