@@ -1,5 +1,19 @@
 # Change Log
 
+## 2022-9-8 7.0.0
+
+- Added: Open-sourcing at <https://github.com/timer-machine/timer-machine-android>
+- Added: Support for Android 12
+- Improved: From Android 12, the app requires "Read phone status" to pause timers during phone calls
+- Improved: More reliable Tasker support. From Android 12, the app requires battery optimization turning off to continue working
+- Improved: The notification now uses the colors from the app theme
+- Improved: The time text of the Screen reminder uses the same digital font
+- Improved: The group loop shows in the Screen reminder
+- Fixed: The missing time label if only one is added.
+- Fixed: Occasional crashes caused by schedulers
+- Fixed: The broken collaboration between Flashlight and Halt
+- Changed: In-app purchases are restored.
+
 ## 2021-10-2 6.0.0
 
 - Added: A new reminder: Flashlight
