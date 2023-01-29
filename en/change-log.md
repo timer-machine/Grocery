@@ -1,5 +1,16 @@
 # Change Log
 
+## 2022-1-26 7.1.0
+
+- Added: Support for Android 13
+- Added: Spanish translation. Thanks to Mario Ruiz!
+- Improved: Faster Text-to-speech
+- Improved: The music will play even if the volume is zero
+- Improved: The music will continue after a temporary interruption
+- Improved: The shortcut's name changes with the timer name
+- Improved: The records screen remembers previously selected timers and time ranges
+- Fixed: The tutorial appears again after completion
+
 ## 2022-9-8 7.0.0
 
 - Added: Open-sourcing at <https://github.com/timer-machine/timer-machine-android>
