@@ -1,6 +1,11 @@
 # Change Log
 
-## 2022-1-26 7.1.0
+## 2023-2-3 7.1.1
+
+- Fixed: A crash when the audio focus changes
+- Fixed: The tutorial appears again after completion
+
+## 2023-1-26 7.1.0
 
 - Added: Support for Android 13
 - Added: Spanish translation. Thanks to Mario Ruiz!
