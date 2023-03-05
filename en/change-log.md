@@ -1,5 +1,11 @@
 # Change Log
 
+## 2023-3-4 7.1.2
+
+- Fixed: The tip for empty timers appears when there are timers
+- Fixed: A crash of Text-to-speech
+- Fixed: Some missing translations
+
 ## 2023-2-3 7.1.1
 
 - Fixed: A crash when the audio focus changes
