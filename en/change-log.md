@@ -1,5 +1,11 @@
 # Change Log
 
+## 2023-5-15 7.2.0
+
+- Added: Dynamic themes(Android 12 or later required)
+- Improved: A more friendly tutorial
+- Improved: No change of scroll position after changing the theme
+
 ## 2023-3-4 7.1.2
 
 - Fixed: The tip for empty timers appears when there are timers
