@@ -1,5 +1,13 @@
 # Change Log
 
+## 2023-9-8 7.3.0
+
+- Added: The themed icon
+- Added: A new voice variable, `SNameNext`, representing the next step's name
+- Added: The support for undoing a step deletion
+- Added: Tasker events for the start and end of a timer
+- Fixed: The missing voice variable table in the landscape mode
+
 ## 2023-5-15 7.2.0
 
 - Added: Dynamic themes(Android 12 or later required)
