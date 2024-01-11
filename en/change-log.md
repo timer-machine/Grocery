@@ -1,5 +1,13 @@
 # Change Log
 
+## 2024-1-1 7.4.0
+
+- Added: TTS Bakery, which improves TTS performance
+- Added: Dutch translation. Thanks to Stephan Paternotte!
+- Added: The beep support for the Count reminder
+- Fixed: The always-showing keyboard in the timer editing screen
+- Fixed: Being able to duplicate the start step
+
 ## 2023-9-8 7.3.0
 
 - Added: The themed icon
