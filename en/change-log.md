@@ -1,5 +1,12 @@
 # Change Log
 
+## 2024-4-7 7.5.0
+
+- Added: The support for Android 14
+- Added: The background color of the full-screen reminder aligns with its step color
+- Fixed: A crash when picking a ringtone
+- Changed: On Android 14, the "Always fullscreen" option for the Screen reminder is removed because of the system's restriction
+
 ## 2024-1-1 7.4.0
 
 - Added: TTS Bakery, which improves TTS performance
