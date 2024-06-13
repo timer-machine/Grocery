@@ -1,5 +1,9 @@
 # Change Log
 
+## 2024-6-13 7.5.1
+
+- Fixed: A crash when signing in
+
 ## 2024-4-7 7.5.0
 
 - Added: The support for Android 14
