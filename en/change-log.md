@@ -1,5 +1,12 @@
 # Change Log
 
+## 2025-3-12 7.6.0
+
+- Added: Image reminder
+- Added: Portuguese translation. Thanks to @aescouto, @profmarcos, @cairobraga, and everyone!
+- Improved: More intuitive backup screens
+- Fixed: Voice and Music can't co-exist after enabling TTS Bakery
+
 ## 2024-6-13 7.5.1
 
 - Fixed: A crash when signing in
