@@ -1,5 +1,9 @@
 # Change Log
 
+## 2025-3-14 7.6.1
+
+- Fixed: The broken F-Droid build
+
 ## 2025-3-12 7.6.0
 
 - Added: Image reminder
