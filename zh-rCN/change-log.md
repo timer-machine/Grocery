@@ -1,5 +1,15 @@
 # 更新日志
 
+## 2025年9月9日 7.7.0
+
+- 新增: Android 15和16的支持
+- 新增: 德语翻译。感谢Yuki Ichiban、Jo W. Burner、@cairobraga、nopee ddi、@eruedin、@TomHagdorn和大家！
+- 新增: 泰米尔语翻译。感谢@TamilNeram
+- 新增: 在倒计时文字上显示步骤名称的选项。感谢@VelorumS
+- 新增: 设置步骤时长为音乐时长的选项
+- 修复: 计时有微小误差的问题
+- 修复: 音乐重复选项失效的问题
+
 ## 2025年3月14日 7.6.1
 
 - 修复: 错误的F-Droid构建

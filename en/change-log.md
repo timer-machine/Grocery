@@ -1,5 +1,15 @@
 # Change Log
 
+## 2025-9-9 7.7.0
+
+- Added: Support for Android 15 and 16
+- Added: the German translation. Thank Yuki Ichiban, Jo W. Burner, @cairobraga, nopee ddi, @eruedin, @TomHagdorn, and everyone!
+- Added: the Tamil translation. Thank @TamilNeram!
+- Added: The option to show the step name above the remaining time. Thank @VelorumS!
+- Added: The option to trim the step duration to the music duration
+- Fixed: A small timing error
+- Fixed: The looping function doesn't work for system ringtones
+
 ## 2025-3-14 7.6.1
 
 - Fixed: The broken F-Droid build
